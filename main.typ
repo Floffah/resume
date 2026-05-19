@@ -14,7 +14,7 @@
 
     - #link("https://www.linkedin.com/in/ramsay-foy")[LinkedIn]
     - #link("https://github.com/floffah")[(large portfolio #sym.arrow.r) GitHub]
-    - #link("https://www.floffah.dev")[Personal site]
+    - #link("https://www.floffah.dev/")[Personal site]
 
     = Skills
     - *I have extensive experience in*:

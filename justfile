@@ -3,5 +3,6 @@ set unstable
 default:
     @just --list
 
-readme-compile-svgs:
+compile:
     typst compile -f svg main.typ assets/README-{p}.svg
+    typst compile main.typ assets/cv.pdf
